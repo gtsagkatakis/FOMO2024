@@ -21,6 +21,6 @@ Each class in the dataset corresponds to a different type of VVB, and the images
 
 ### Project Structure
 
-- **`train_cnn.ipynb`**: A Jupyter Notebook that contains the code for training a Convolutional Neural Network (CNN) model to classify the VVB images. The notebook also includes code for evaluating the model's performance on a test set.
+- **`train_cnn_VVBs.ipynb`**: A Jupyter Notebook that contains the code for training a Convolutional Neural Network (CNN) model to classify the VVB images. The notebook also includes code for evaluating the model's performance on a test set.
 
 
