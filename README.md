@@ -1,6 +1,6 @@
-# FOMO2024_code
+# FOMO2024 code & data
 
-using data from https://github.com/lucainnocenti/ML-classification-of-VVBs/tree/master
+
 
 # ML Classification of VVBs
 
