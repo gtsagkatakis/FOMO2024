@@ -21,14 +21,6 @@ Each class in the dataset corresponds to a different type of VVB, and the images
 
 ### Project Structure
 
-- **`visualize_dataset.ipynb`**: A Jupyter Notebook for loading the dataset and visualizing one representative image per class. This helps in gaining an understanding of the dataset before proceeding with model training.
-  
 - **`train_cnn.ipynb`**: A Jupyter Notebook that contains the code for training a Convolutional Neural Network (CNN) model to classify the VVB images. The notebook also includes code for evaluating the model's performance on a test set.
 
-### How to Use
-
-1. **Clone the Repository**: Begin by cloning this repository to your local machine or Google Colab environment.
-   
-   ```bash
-   git clone https://github.com/your-username/ML-classification-of-VVBs.git
 
